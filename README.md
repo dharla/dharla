@@ -2,7 +2,7 @@
 
 ### Welcome to my Github profile! 👋
 
-📚 I'm currently studying Cyber Defense at FIAP.
+📚 I'm currently studying Data Rights at PUC Minas.
 
 👩🏻‍🎓 I have a degree in Portuguese Literature and Language.
 
