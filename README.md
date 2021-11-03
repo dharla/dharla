@@ -2,9 +2,9 @@
 
 ### Welcome to my Github profile! 👋
 
-📚 I'm currently studying Data Rights at PUC Minas.
+📚 I'm currently specializing in Data Protection Law at PUC Minas.
 
-👩🏻‍🎓 I have a degree in Portuguese Literature and Language.
+👩🏻‍🎓 I have a degree in Literature and Language-qualification in Portuguese.
 
 👾 I'm mostly interested in information security and data protection projects.
 
